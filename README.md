@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Arshdeep Bajaj>`
-- **CCID:** `<bajaj3>`
+- **Full Name:** `Arshdeep Bajaj`
+- **CCID:** `bajaj3`
 
 ## References and Resources
 
